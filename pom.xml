@@ -20,7 +20,7 @@
         <module>backend-ini-zuul-server</module>        
         <module>backend-time</module>        
         <module>backend-campanha</module>
-        <module>backend-cadastro</module>
+        <module>backend-torcedor</module>
     </modules>
 
     <properties>
